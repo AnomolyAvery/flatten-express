@@ -4,6 +4,7 @@
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
   "license": "MIT",
+  "repository": "github:AnomolyAvery/flatten-express",
   "files": [
     "lib",
     "package.json"
